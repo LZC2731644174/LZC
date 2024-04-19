@@ -1,2 +1,2 @@
 # LZC
-hello world
+你好
